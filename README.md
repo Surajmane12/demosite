@@ -147,7 +147,7 @@ Step 5: Update UI with Results
 - **Features**: 
   - All players sync (master database)
   - Team roster sync (specific team data)
-  - Player scoring sync (statistical data)
+  - Player scoring sync (points data)
   - Rookie draft sync (draft information)
 - **Components**: Sync status UI, progress tracking
 
