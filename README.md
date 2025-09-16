@@ -355,11 +355,6 @@ npm run dev
 ### 3. Database Connection Test
 Check backend console logs for successful database connection messages.
 
-### 4. Frontend-Backend Integration
-- Visit http://localhost:3000
-- Try logging in (if authentication is set up)
-- Test MFL sync functionality
-
 
 ## 🔧 Development Scripts
 
